@@ -1,0 +1,14 @@
+[
+  {
+    "question_id": 1,
+    "question": "Who is the richest man in the world?",
+    "options": ["Bill Gates", "Elon Mask", "Mansa Musa"],
+    "correct_answer": 3
+  },
+  {
+    "question_id": 2,
+    "question": "Which is the richest country in the world?",
+    "options": ["Qatar", "Luxembourg", "Singapore", "Ireland", "USA"],
+    "correct_answer": 2
+  }
+]
