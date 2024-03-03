@@ -1,0 +1,3 @@
+[submodule "auto-task-bot"]
+	path = auto-task-bot
+	url = https://github.com/aratheunseen/auto-task-bot
