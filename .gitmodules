@@ -1,0 +1,3 @@
+[submodule "kormochari"]
+	path = kormochari
+	url = https://github.com/aratheunseen/kormochari
