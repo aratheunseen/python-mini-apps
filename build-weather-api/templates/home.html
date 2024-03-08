@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <h1>Weather Data API</h1>
+    <p><b>URL format</b>: http://127.0.0.1:5000/api/v1/station/date</p>
+    <p><b>URL example</b>: http://127.0.0.1:5000/api/v1/16/1995-03-08</p>
+    <p>
+        <p><b>URL example (all data by selected station )</b>: http://127.0.0.1:5000/api/v1/16</p>
+        <p><b>URL example (one station data by year)</b>: http://127.0.0.1:5000/api/v1/annual/16/1990</p>
+    </p>
+
+    <p>
+        {{data|safe}}
+    </p>
+</body>
+</html>
