@@ -4,8 +4,7 @@
 
 - Install streamlit package using pip
 
-      pip install streamlit
-
+      pip install -r requirements.txt
 - Execute project
 
       streamlit run main.py
