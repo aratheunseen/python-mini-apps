@@ -1,4 +1,4 @@
-
+![sentiment-analysis-graph](https://github.com/aratheunseen/python-mini-apps/assets/62181222/ad8da95b-5c49-454f-b20a-993a6ce83f32)
 
 ## How to run?
 
