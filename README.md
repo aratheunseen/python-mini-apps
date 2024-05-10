@@ -6,7 +6,7 @@
 
 ### Method 1:
 
-1. Goto: [GitZip](https://kinolien.github.io/gitzip)
+1. Goto: <a href="https://kinolien.github.io/gitzip" target="_blank">GitZip</a>
 1. Enter repository link to the search box:
 
         https://github.com/aratheunseen/python-mini-apps
@@ -17,7 +17,7 @@
 
 ### Method 2:
 
-1. Goto: [download-directory](https://download-directory.github.io)
+1. Goto: <a href="https://download-directory.github.io" target="_blank">download-directory</a>
 
 1. Paste Directory Link:
 
