@@ -9,7 +9,7 @@
 1. Goto: <a href="https://kinolien.github.io/gitzip" target="_blank">GitZip</a>
 1. Enter repository link to the search box:
 
-        https://github.com/aratheunseen/python-mini-apps
+       https://github.com/aratheunseen/python-mini-apps
    
 1. Hit the `Search` button.
 1. Choose your app and click `Download Zip File` to download.
@@ -21,7 +21,7 @@
 
 1. Paste Directory Link:
 
-        https://github.com/aratheunseen/python-mini-apps/tree/main/<x>
+       https://github.com/aratheunseen/python-mini-apps/tree/main/<x>
 
     Change the _'\<x>'_ to the __'app-name'__ e.g. `https://github.com/aratheunseen/python-mini-apps/tree/main/movie-recommendation-system`
 
