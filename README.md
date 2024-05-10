@@ -16,7 +16,7 @@
 
 ### Method 2:
 
-1. Goto: [GitZip](https://kinolien.github.io/gitzip/)
+1. Goto: [GitZip](https://kinolien.github.io/gitzip)
 1. Enter repository link to the search box:
 
         https://github.com/aratheunseen/python-mini-apps
