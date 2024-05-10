@@ -6,11 +6,13 @@
 
 ### Method 1:
 
-1. Goto: <a href="https://kinolien.github.io/gitzip" target="_blank">GitZip</a>
-1. Enter repository link to the search box:
+1. Copy the repository link:
 
        https://github.com/aratheunseen/python-mini-apps
    
+
+1. Goto: <a href="https://kinolien.github.io/gitzip" target="_blank">GitZip</a>
+1. Paste the repository link to the search box.
 1. Hit the `Search` button.
 1. Choose your app and click `Download Zip File` to download.
 
