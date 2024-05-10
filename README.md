@@ -1,6 +1,6 @@
 # Python Mini Apps
 
-## How to Download an app
+## How to Download a single app
 
 1. Goto:
 
