@@ -2,7 +2,7 @@
 
 ![portfolio](https://github.com/aratheunseen/python-mini-apps/assets/62181222/cc07bcfd-7660-4d9e-b32d-da66d4242b32)
 
-## How to Download a single app?
+## How to download a single app?
 
 1. Goto:
 
