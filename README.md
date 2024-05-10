@@ -12,5 +12,5 @@
 
     Change the _'\<x>'_ to the __'app-name'__ e.g. `https://github.com/aratheunseen/python-mini-apps/tree/main/movie-recommendation-system`
 
-1. Then click `Enter` to Download
+1. Then click `Enter` to Download the app.
 
