@@ -6,7 +6,7 @@
 
 1. Goto:
 
-        https://download-directory.github.io
+        https://aratheunseen.github.io/download-github-directory
 
 1. Paste Directory Link:
 
